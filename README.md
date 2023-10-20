@@ -12,18 +12,6 @@ Welcome to my GitHub profile, where I explore the world of coding and have fun c
 
 Feel free to explore my repositories for more projects and experiments!
 
-## Technologies I Enjoy
-
-I have experience with a variety of technologies and languages, including:
-
-- JavaScript
-- Mongodb
-- HTML/CSS
-- React
-- Node.js
-- Java
-- C#
-
 ## Get in Touch
 
 I'm always open to collaboration and connecting with fellow developers. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/dasun-mahesha-438147212/).
