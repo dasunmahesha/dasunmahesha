@@ -9,6 +9,10 @@ Welcome to my GitHub profile, where I explore the world of coding and have fun c
 - 🎓 Currently studying for a B.Tech. in Software Technology at the University of Vocational Technology (UoVT).
 - 🚀 I love to learn and experiment with new technologies, particularly in backend development.
 - 😄 I believe in coding for fun and continuous learning.
+ 
+
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dasunmahesha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Technical Skills
 
@@ -42,6 +46,10 @@ A secure API built for user registration and authentication using JWT (JSON Web 
 - **Automation Testing:** Implemented automated testing using Cucumber and Selenium.
 - **TODO Application:** Task management application built with the MERN stack for efficient task handling.
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunmahesha&layout=compact)
+
+
+
 ## Get in Touch
 
 I'm always open to collaboration and connecting with fellow developers. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/dasun-mahesha/).
@@ -49,3 +57,5 @@ I'm always open to collaboration and connecting with fellow developers. You can 
 Let's code together and make the world a more exciting place!
 
 Happy coding! 👨‍💻🚀
+
+![](https://komarev.com/ghpvc/?username=dasunmahesha&color=green)
