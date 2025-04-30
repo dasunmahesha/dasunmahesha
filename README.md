@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hello, I'm Dasun Mahesha! 👋
 
-## Getting Started
+Welcome to my GitHub profile, where I explore the world of coding and have fun creating projects. I'm passionate about technology and enjoy building software that solves real-world problems and engages my creativity. Here you'll find a glimpse of my coding journey.
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🌍 I'm from Gampaha, Sri Lanka.
+- 💻 I'm a dedicated junior web developer with hands-on experience in backend development, software architecture, and RESTful API development.
+- 🎓 Currently studying for a B.Tech. in Software Technology at the University of Vocational Technology (UoVT).
+- 🚀 I love to learn and experiment with new technologies, particularly in backend development.
+- 😄 I believe in coding for fun and continuous learning.
+ 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dasunmahesha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technical Skills
 
-## Learn More
+- **Programming Languages:** C#, JavaScript
+- **Frameworks and Libraries:** .NET Core, ASP.NET, React.js, Node.js
+- **Database and ORM:** MSSQL, Dapper, Stored Procedures
+- **Architectural Patterns:** Dependency Injection, Repository Pattern, Clean Architecture
+- **Web Development:** HTML, CSS, SCSS
+- **Tools and Testing:** Fluent Validation, Git, JWT Authentication, Selenium, Cucumber
+- **Soft Skills:** Problem-solving, teamwork, adaptability
+- **Field of Interest:** Backend Development, Software Architecture, API Development, Web Development
 
-To learn more about Next.js, take a look at the following resources:
+## Experience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Dimensions IT (March 2024 - Present)
+**Junior Web Developer - Internship**
+- Developed and maintained web applications using modern web technologies, ensuring responsive and user-friendly interfaces.
+- Collaborated with cross-functional teams (designers, product managers) to define, design, and deploy new features, enhancing user experience and application functionality.
+- Troubleshot and optimized front-end performance, identifying and resolving issues to improve page load times and overall application stability.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Personal Projects
 
-## Deploy on Vercel
+### AuthControl API
+A secure API built for user registration and authentication using JWT (JSON Web Tokens) and role-based access control.
+- **Technologies:** .NET Core, Fluent Validation, Dapper, Clean Architecture
+- Features user registration with validation, JWT-based authentication, role-based authorization (Admin role), and Swagger documentation.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Other Notable Projects
+- **Library Management System:** Scalable system for managing books, authors, and users using C# and Microsoft SQL Server.
+- **POS System:** Developed a Point of Sale system to manage sales, inventory, and customer data, enhancing transaction speed and accuracy.
+- **Automation Testing:** Implemented automated testing using Cucumber and Selenium.
+- **TODO Application:** Task management application built with the MERN stack for efficient task handling.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunmahesha&layout=compact)
+
+
+
+## Get in Touch
+
+I'm always open to collaboration and connecting with fellow developers. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/dasun-mahesha/).
+
+Let's code together and make the world a more exciting place!
+
+Happy coding! 👨‍💻🚀
+
+![](https://komarev.com/ghpvc/?username=dasunmahesha&color=green)
